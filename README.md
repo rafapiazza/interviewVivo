@@ -30,3 +30,7 @@ Caso aja alguma não conformidade com os padrões, receberá a responsta com o p
 
 Testes unitários de cenário ruim referentes as validaçoes foram desenvolvidos e podem ser encontrados no pacote test
 ![image](https://user-images.githubusercontent.com/29410618/189126260-762e0ffd-6fcf-4d22-8b61-097cfa8a85a9.png)
+
+Os demais projetos se encontram nos:
+https://github.com/rafapiazza/interviewVivo1/tree/master
+https://github.com/rafapiazza/interviewVivo3/tree/master
